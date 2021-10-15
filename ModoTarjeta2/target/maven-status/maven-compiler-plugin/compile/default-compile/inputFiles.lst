@@ -1,0 +1,11 @@
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/models/Edad.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/services/impl/ITarjetaConsumesImpl.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/services/ITarjetaRepository.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/services/ITarjetaConsumes.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/models/Tarjeta.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/mapping/Mapping.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/models/RangoCredito.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/models/Pasion.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/models/Cliente.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/web/api/ConsumesRestController.java
+/home/luis-enrique/Documentos/IBM/programas/ModoTarjeta2/src/main/java/com/example/tarjeta/ModoTarjeta2Application.java

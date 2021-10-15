@@ -1,0 +1,11 @@
+com/example/tarjeta/models/Tarjeta.class
+com/example/tarjeta/ModoTarjeta2Application.class
+com/example/tarjeta/web/api/ConsumesRestController.class
+com/example/tarjeta/services/ITarjetaRepository.class
+com/example/tarjeta/models/Cliente.class
+com/example/tarjeta/mapping/Mapping.class
+com/example/tarjeta/services/impl/ITarjetaConsumesImpl.class
+com/example/tarjeta/models/RangoCredito.class
+com/example/tarjeta/services/ITarjetaConsumes.class
+com/example/tarjeta/models/Pasion.class
+com/example/tarjeta/models/Edad.class
